@@ -25,7 +25,7 @@ There are three scripts included in the PoC.
 
     This script will create two separate scheduled tasks within Window's Task Scheduler.  
 
-2. <b>downloadExeriantList.ps1</b>
+2. <b>downloadExperiantList.ps1</b>
 
     This script will execute once daily.  It will pull an updated file extension list from [Experiant Consulting](https://fsrm.experiant.ca/api/v1/get) and save it to a file that will later be used to determine if saved files are malicious in nature.
 
